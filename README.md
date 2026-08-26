@@ -12,7 +12,7 @@ Classification of spare parts under intermittent demand using constrained K-mean
 
 | File | Description |
 |---|---|
-| `dashboard.html` | Interactive dashboard (self-contained, open in browser) |
+| `index.html` | Interactive dashboard (self-contained, open in browser) |
 | `Klasifikasi_Sparepart_Prozima.ipynb` | Analysis notebook (Python) |
 | `Figure_1_cluster_projection.png` | PCA projection of classified items |
 | `Figure_2_assignment_stability.png` | Bootstrap assignment probability heatmap |
